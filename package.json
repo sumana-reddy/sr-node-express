@@ -1,0 +1,30 @@
+{
+  "name": "sr-node-express",
+  "version": "1.0.0",
+  "description": "express node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumana-reddy/sr-node-express.git"
+  },
+  "keywords": [
+    "example",
+    "express"
+  ],
+  "author": "Sumana Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumana-reddy/sr-node-express/issues"
+  },
+  "homepage": "https://github.com/sumana-reddy/sr-node-express#readme",
+  "engines": {
+    "node": "15.x"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
